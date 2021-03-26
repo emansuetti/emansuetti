@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emansuetti
-- 👀 I’m interested in healthcare analytic language
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in healthcare analytics
+- 🌱 I’m currently learning VBA for Excel and Python
+- 💞️ I’m looking to collaborate on tools to help further my understanding of technical languages 
 - 📫 How to reach me 
 
 <!---
